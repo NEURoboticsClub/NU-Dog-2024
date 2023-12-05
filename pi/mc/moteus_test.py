@@ -7,7 +7,6 @@ More details
 import asyncio
 
 # for bridge nodes sockets
-import sys
 import socket
 
 from get_cpu_command import get_cpu_command
